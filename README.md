@@ -1,20 +1,14 @@
 # Go语言面试问答
 
+受 [PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) 项目启发！
+
 结合实际Go面试，汇总自己遇到的问题，以及网上其他人遇到的问题，尝试提供简洁准确的答案
 
 包含网络、数据结构与算法、Go、Web、MySQL、Redis、Linux、安全、设计模式、架构、面试等部分
 
-> 本仓库将持续更新，fork 无法看到最新内容，建议 Watch 或 Star ~~
-
 ## 面试流程
 
 ![面试流程](./docs/interview.png)
-
-## 微信群
-
-扫码加微信，备注：`PIQA`，有时候可能在忙，稍等片刻
-
-<p align="left"><img width="320" src="./docs/wechat.jpg" alt="wechat"></a></p>
 
 ## 问题列表
 
@@ -53,36 +47,8 @@
 - [排序](./docs/02.数据结构与算法/QA.md#排序)
 - [其他](./docs/02.数据结构与算法/QA.md#其他)
 
-### PHP 篇
+### Go 篇
 
-- [echo、print、print_r、var_dump 区别](./docs/03.PHP/QA.md#echoprintprint_rvar_dump-区别)
-- [单引号和双引号的区别](./docs/03.PHP/QA.md#单引号和双引号的区别)
-- [isset 和 empty 的区别](./docs/03.PHP/QA.md#isset-和-empty-的区别)
-- [static、self、$this 的区别](./docs/03.PHP/QA.md#staticselfthis-的区别)
-- [include、require、include_once、require_once 的区别](./docs/03.PHP/QA.md#includerequireinclude_oncerequire_once-的区别)
-- [数组处理函数](./docs/03.PHP/QA.md#常见数组函数)
-- [Cookie 和 Session](./docs/03.PHP/QA.md#cookie-和-session)
-- [预定义变量](./docs/03.PHP/QA.md#预定义变量)
-- [传值和传引用的区别](./docs/03.PHP/QA.md#传值和传引用的区别)
-- [构造函数和析构函数](./docs/03.PHP/QA.md#构造函数和析构函数)
-- [魔术方法](./docs/03.PHP/QA.md#魔术方法)
-- [public、protected、private、final 区别](./docs/03.PHP/QA.md#publicprotectedprivatefinal-区别)
-- [客户端/服务端 IP 获取，了解代理透传 实际IP 的概念](./docs/03.PHP/QA.md#客户端服务端-ip-获取了解代理透传-实际ip-的概念)
-- [类的静态调用和实例化调用](./docs/03.PHP/QA.md#类的静态调用和实例化调用)
-- [PHP 不实例化调用方法](./docs/03.PHP/QA.md#php-不实例化调用方法)
-- [php.ini 配置选项](./docs/03.PHP/QA.md#phpini-配置选项)
-- [php-fpm.conf 配置](./docs/03.PHP/QA.md#php-fpmconf-配置)
-- [502、504 错误产生原因及解决方式](./docs/03.PHP/QA.md#502504-错误产生原因及解决方式)
-- [如何返回一个301重定向](./docs/03.PHP/QA.md#如何返回一个301重定向)
-- [PHP 与 MySQL 连接方式](./docs/03.PHP/QA.md#php-与-mysql-连接方式)
-- [MySQL、MySQLi、PDO 区别](./docs/03.PHP/QA.md#mysqlmysqlipdo-区别)
-- [MySQL 连接池](./docs/03.PHP/QA.md#mysql-连接池)
-- [代码执行过程](./docs/03.PHP/QA.md#代码执行过程)
-- [base64 编码原理](./docs/03.PHP/QA.md#base64-编码原理)
-- [ip2long 实现](./docs/03.PHP/QA.md#ip2long-实现)
-- [MVC 的理解](./docs/03.PHP/QA.md#mvc-的理解)
-- [主流 PHP 框架特点](./docs/03.PHP/QA.md#主流-php-框架特点)
-- [对象关系映射/ORM](./docs/03.PHP/QA.md#对象关系映射orm)
 
 ### Web 篇
 
@@ -239,7 +205,7 @@
 
 面试或者面试他人，无法逃避，那就选择面对。撰写《PHP 面试问答》，构建一个面试体系，而不必慌张的临时准备，时时刻刻都充分准备好，对自己负责，也对别人负责。
 
-结合实际 PHP 面试，系统的汇总面试中的各种各样的问题，尝试提供简洁准确的答案。如果你在 PHP 面试中遇到问题，欢迎提 Issues 交流。包含网络、数据结构与算法、PHP、Web、MySQL、Redis、Linux、安全、设计模式、架构、自我介绍、离职原因、职业规划、准备问题等部分。
+结合实际 PHP 面试，系统的汇总面试中的各种各样的问题，尝试提供简洁准确的答案。如果你在 PHP 面试中遇到问题，欢迎提 Issues 交流。包含网络、数据结构与算法、Go、Web、MySQL、Redis、Linux、安全、设计模式、架构、自我介绍、离职原因、职业规划、准备问题等部分。
 
 最后，祝愿大家在日后的求职中，都能拿到满意的 offer~~
 
